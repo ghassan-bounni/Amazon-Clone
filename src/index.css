@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Amazon Ember", Arial, sans-serif;
+  background-color: rgb(234, 237, 237);
+}
+
+@media (max-width: 690px) {
+  html {
+    font-size: 66%;
+  }
+}
+
+a {
+  text-decoration: none;
+}
